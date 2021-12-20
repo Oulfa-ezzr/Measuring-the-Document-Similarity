@@ -1,0 +1,6 @@
+Un fichier correspond à un enregistrement de données informatiques stockées dans votre ordinateur
+Il peut représenter une musique , un film , un document texte , un tableau
+Chaque fichier est représenté visuellement par une icône
+Quand vous créez un document texte avec Word et que vous l’enregistrez, cela va créer un fichier informatique dans votre ordinateur
+Lorsque vous supprimez un fichier , il est envoyé vers la corbeille
+et sera récupérable si vous changez d’avis tant que vous ne videz pas cette dernière .
